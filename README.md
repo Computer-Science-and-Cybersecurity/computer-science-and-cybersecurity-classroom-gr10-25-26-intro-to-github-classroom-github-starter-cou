@@ -88,7 +88,12 @@ GitHub Explore is a great place to do just that … explore :smile: You can find
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
 
-## 📝 Optional next steps 
+## 📝 Next steps 
+
+* Using VSCode, open hello-world.py and add your ownline of code, save and run.  Then, using the Source Control tool, Commit and add a Commit Comment.
+    To Commit and Sync, you may need to run the following commands in the Terminal below
+    $ git config --global user.name "John Doe"
+    $ git config --global user.email johndoe@example.com
 
 * Open a pull request and let your teacher know that you’ve finished this course.  
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
